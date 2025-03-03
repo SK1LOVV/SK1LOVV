@@ -1,0 +1,7 @@
+@mixin portfolio ($w, $d, $jc, $ta, $fd) {
+ width: $w;
+ display: $d;
+ justify-content: $jc;
+ text-align: $ta;
+ flex-direction: $fd;
+}
